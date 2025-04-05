@@ -33,6 +33,5 @@ The code has been tested using R version 4.4.0, “Puppy Cup.” To ensure succe
 CRPS for whale abundance detected by distance sampling) for the joint models (i) and (ii)
 
 ## Step 5. Summarize inference results
-- `table_sum.R`: Generate Table 6 (Posterior median estimates and 95% HPD intervals for model parameters) and Table 7 (Estimated posterior medians and 95% HPD intervals for average zooplankton abundance per $m^3$ across CCB and for total whale abundance estimates for each day)
-- `plot_sum.R`: Generate Figure 7 (b) (Posterior mean estimate of the average zooplankton abundance surface per $m^3$ for each day) and Figure 7 (c) (Posterior mean estimate of the whale
-intensity surface for each day). The figures are saved in the directory `/fig`
+- `table_sum.R`: Generate Table 6 (Posterior median estimates and 95% HPD intervals for model parameters) and Table 7 (Estimated posterior medians and 95% HPD intervals for average zooplankton abundance and for total whale abundance)
+- `plot_sum.R`: Generate Figure 7 (b) (Posterior mean estimates of the average zooplankton abundance surfaces) and Figure 7 (c) (Posterior mean estimates of the whale intensity surfaces). The figures are saved in the directory `/fig`
