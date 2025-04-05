@@ -30,7 +30,7 @@ The code has been tested using R version 4.4.0, “Puppy Cup.” To ensure succe
 
 ## Step 4. Compare models via loglikelihood and continous ranked probability score (CRPS)
 - `table_modelselection.R`: Generate Table 5 (Posterior median estimate and 95% HPD interval for the loglikelihood function as well as
-CRPS for whale abundance detected by distance sampling for each day) for the joint models (i) and (ii)
+CRPS for whale abundance detected by distance sampling) for the joint models (i) and (ii)
 
 ## Step 5. Summarize inference results
 - `table_sum.R`: Generate Table 6 (Posterior median estimates and 95% HPD intervals for model parameters) and Table 7 (Estimated posterior medians and 95% HPD intervals for average zooplankton abundance per $m^3$ across CCB and for total whale abundance estimates for each day)
