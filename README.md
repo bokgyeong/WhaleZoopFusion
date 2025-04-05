@@ -21,7 +21,7 @@ The code has been tested using R version 4.4.0, “Puppy Cup.” To ensure succe
 - The resulting posterior samples for model parameters are saved in the directory `/fit`
 
 ## Step 3. Summarize the posterior samples
-- Compute posterior mean abundance surfaces, posterior samples for abundance, log-likelihood, and the number of observed whales and calls
+- Compute posterior mean abundance surfaces. Compute posterior samples for abundance, log-likelihood, and the number of observed whales and calls
 - `sumJoint_etat_psi.R`: Compute the above quantities based on the results from the joint model (i)  
 - `sumJoint_etat_psit.R`: Compute the above quantities based on the results from the joint model (ii)  
 - `sumWhale_psit.R`: Compute the above quantities based on the results from the whale model  
