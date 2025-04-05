@@ -11,7 +11,7 @@ The code has been tested using R version 4.4.0, “Puppy Cup.” To ensure succe
 - `data_etat_psi.R`: Generate a dataset from the model (i)
 - `data_etat_psit.R`: Generate a dataset from the model (ii)
 - The simulated datasets are saved in the directory `/data`
-- `plot_data.R`: Generate Figure 1 (The location of Cape Cod Bay, MA and locations of zooplankton collection sites), Figure 2 (Distance sampling and passive acoustic monitoring data), and Figure 7 (a) (Zooplankton and whale data)
+- `plot_data.R`: Generate Figure 1 (The location of Cape Cod Bay, MA and locations of zooplankton collection sites), Figure 2 (Distance sampling and passive acoustic monitoring data), and Figure 7 (a) (Zooplankton and whale data). The figures are saved in the directory `/fig`
 
 ## Step 2. Fit the proposed models to the simulated datasets
 - `fitJoint_etat_psi.R`: Fit the joint model (i) to the simulated datasets
